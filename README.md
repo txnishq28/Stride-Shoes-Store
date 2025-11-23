@@ -168,11 +168,3 @@ Work on expanding the project with:
 - Image gallery sliders  
 
 ---
-
-If you want, I can also:
-
-✅ Rewrite this in a more professional tone  
-✅ Make it minimalistic  
-✅ Add branding for **Stride Shoes Store**  
-✅ Format it for GitHub with emojis & badges  
-Just tell me!
